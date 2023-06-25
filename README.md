@@ -1,4 +1,4 @@
-# AETL-Pyhton-EDA
+# Python for Data Analysis and Visualization
 
 Instructions to download and install necesaary software and data:
 
