@@ -7,7 +7,8 @@ Instructions to download and install necesaary software and data:
    In this workshop, we will be using Python 3 with some of its most popular scientific libraries. Although one can install a plain-vanilla Python and all required libraries by hand, we recommend installing [Anaconda](https://www.anaconda.com/), a Python distribution that comes with everything we need for the workshop. Detailed installation instructions for various operating systems can be found on [Anaconda documentation](https://docs.anaconda.com/free/anaconda/install/).
 
 ### 2. Obtain workshop materials
-  - Download  [netflix_titles.csv](https://drive.google.com/file/d/12xNn9y4rlX4s_x1ChZZ_FjqKbGeTCveD/view?usp=sharing)
+  - Visit the Netflix Movies and TV Shows dataset page on Kaggle:  [netflix_titles](https://www.kaggle.com/shivamb/netflix-shows)
+  - Click on the "Download" button to download the dataset file (e.g., netflix_titles.csv)
   - Create a folder named lucy-python on your Desktop.
   - Move the downloaded csv file to the lucy-python folder.
 
